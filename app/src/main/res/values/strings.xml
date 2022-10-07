@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GetFive2</string>
+    <string name="get_5_rules">      1)Try to get a trio and a duo to win by collecting cards though the game!
+
+        2)You get a hand of 5 cards from the beginning.
+
+        3)Click on the cards to reveal them or take a new card and the hand will reveal itself automatically.
+
+        4)If a new card matches a card of your hard, just click a non desired card from your hand to add the new one.</string>
+
+</resources>
